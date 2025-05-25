@@ -1,0 +1,60 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio / JetBrains
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+.idea/
+*.tmproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Auto-generated Unity files
+*.unitypackage
+*.apk
+*.aab
+*.exe
+
+# Rider
+*.sln.iml
+
+# Crash Reports
+sysinfo.txt
+
+# Unity Cache
+[Uu]serSettings/
+
+# Build artifacts
+*.app
+*.ipa
+
+# Unity Collaborate
+.collab/
+
+# Localization
+*.pot
+*.po
+*.mo
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.bundle*
+
+# JetBrains Rider project files
+*.idea/
+*.sln.iml
+
