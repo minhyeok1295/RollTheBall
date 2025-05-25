@@ -22,8 +22,20 @@ A simple 3D ball rolling game project made with Unity.
 
 ## Development Environment
 
-- Unity Version: (Please specify the version you used, e.g., 2021.3.0f1)
-- Main Packages: (List any important packages if necessary)
+- Unity Version: **6000.0.49f1**
+- Main Packages:
+  - com.unity.ai.navigation
+  - com.unity.collab-proxy
+  - com.unity.ide.rider
+  - com.unity.ide.visualstudio
+  - com.unity.inputsystem
+  - com.unity.multiplayer.center
+  - com.unity.render-pipelines.universal
+  - com.unity.test-framework
+  - com.unity.timeline
+  - com.unity.ugui
+  - com.unity.visualscripting
+  - (plus various Unity modules)
 
 ## Notes
 
